@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @devops-evo
+/src/backend/database.py      @devops-evo
+/src/backend/routers/auth.py  @devops-evo
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @devops-evo
